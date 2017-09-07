@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.example.spring</groupId>
+	<groupId>com.example.spring1111</groupId>
 	<artifactId>Designpattern</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Designpattern</name>
-	<description>23种设计模式</description>
+	<description>23种设计模式111111111</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
